@@ -87,3 +87,8 @@ Implementation of a menu-driven console interface
 Clear commenting and documentation practices
 
 The goal was to build a functional, easy-to-read application rather than a complex system.
+
+## Repository Link
+This project is hosted on GitHub:
+https://github.com/Nightchayde/BIT504_A2_TristanWilkinson
+
